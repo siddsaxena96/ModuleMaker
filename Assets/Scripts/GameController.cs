@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-//GitTest
+
 public class GameController : MonoBehaviour {
 
     public Transform[] spawnPoints;
